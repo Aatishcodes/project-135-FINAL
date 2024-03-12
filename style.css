@@ -1,0 +1,42 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+color: black;
+margin-bottom: 20px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+
+body{
+   background-size: cover;
+   
+}
+
+
+canvas {
+    box-shadow: 5px 5px 5px grey, 10px 10px 10px red, 15px 15px 15px green;
+    border-radius: 10px;
+
+}
+
+#start {
+    font-size: 18px;
+}
+
+#stop {
+    font-size: 18px;
+}
+
+#numofobjects {
+    font-size: 18px;
+    background-color: yellow;
+    border-color: yellow;
+    padding: 7px;
+}
